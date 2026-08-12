@@ -6,14 +6,23 @@ A user-centered digital solution designed to streamline hostel searching, room c
  Team Members & Roles
  
  Samuel Kangethe   C027-01-0840/2024  **screen 1
+ 
  David Rosasi      C027-01-0922/2024  **screen 2
+ 
  Moreen Muthoni    C027-01-0836/2024  **Screen 3
+ 
  Agnes Ndegwa      C027-01-0838/2024  **screen 4
+ 
  Eugene Otieno     C027-01-0911/2024  **screen 5
+ 
  Collins Kibet     C027-01-2425/2024  **screen 6
+ 
  Leah Gachanja     C027-01-0849/2023  **screen 7
+ 
  Isaac Okoth       C027-01-2213/2023  **screen 8
+ 
  James Warikha     C027-01-1106/2018  **screen 9
+ 
  Paul Nganga       C027-01-2424/2024  **Screen 10,11,12
 
 
